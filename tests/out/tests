@@ -1,0 +1,254 @@
+Nodes Nodes on Metal Layer 1
+Node Coordinate: (1, 1), Metal Layer: 1
+Adjacent Nodes:
+	Above:
+		Node Coordinate: (1, 1), Metal Layer: 2
+	Below:
+		NULL
+	North:
+		Node Coordinate: (1, 2), Metal Layer: 1
+	East:
+		NULL
+	South:
+		NULL
+	West:
+		NULL
+Node Coordinate: (1, 2), Metal Layer: 1
+Adjacent Nodes:
+	Above:
+		Node Coordinate: (1, 2), Metal Layer: 2
+	Below:
+		NULL
+	North:
+		Node Coordinate: (1, 3), Metal Layer: 1
+	East:
+		NULL
+	South:
+		Node Coordinate: (1, 1), Metal Layer: 1
+	West:
+		NULL
+Node Coordinate: (1, 3), Metal Layer: 1
+Adjacent Nodes:
+	Above:
+		Node Coordinate: (1, 3), Metal Layer: 2
+	Below:
+		NULL
+	North:
+		NULL
+	East:
+		NULL
+	South:
+		Node Coordinate: (1, 2), Metal Layer: 1
+	West:
+		NULL
+Node Coordinate: (2, 1), Metal Layer: 1
+Adjacent Nodes:
+	Above:
+		Node Coordinate: (2, 1), Metal Layer: 2
+	Below:
+		NULL
+	North:
+		Node Coordinate: (2, 2), Metal Layer: 1
+	East:
+		NULL
+	South:
+		NULL
+	West:
+		NULL
+Node Coordinate: (2, 2), Metal Layer: 1
+Adjacent Nodes:
+	Above:
+		Node Coordinate: (2, 2), Metal Layer: 2
+	Below:
+		NULL
+	North:
+		Node Coordinate: (2, 3), Metal Layer: 1
+	East:
+		NULL
+	South:
+		Node Coordinate: (2, 1), Metal Layer: 1
+	West:
+		NULL
+Node Coordinate: (2, 3), Metal Layer: 1
+Adjacent Nodes:
+	Above:
+		Node Coordinate: (2, 3), Metal Layer: 2
+	Below:
+		NULL
+	North:
+		NULL
+	East:
+		NULL
+	South:
+		Node Coordinate: (2, 2), Metal Layer: 1
+	West:
+		NULL
+Node Coordinate: (3, 1), Metal Layer: 1
+Adjacent Nodes:
+	Above:
+		Node Coordinate: (3, 1), Metal Layer: 2
+	Below:
+		NULL
+	North:
+		Node Coordinate: (3, 2), Metal Layer: 1
+	East:
+		NULL
+	South:
+		NULL
+	West:
+		NULL
+Node Coordinate: (3, 2), Metal Layer: 1
+Adjacent Nodes:
+	Above:
+		Node Coordinate: (3, 2), Metal Layer: 2
+	Below:
+		NULL
+	North:
+		Node Coordinate: (3, 3), Metal Layer: 1
+	East:
+		NULL
+	South:
+		Node Coordinate: (3, 1), Metal Layer: 1
+	West:
+		NULL
+Node Coordinate: (3, 3), Metal Layer: 1
+Adjacent Nodes:
+	Above:
+		Node Coordinate: (3, 3), Metal Layer: 2
+	Below:
+		NULL
+	North:
+		NULL
+	East:
+		NULL
+	South:
+		Node Coordinate: (3, 2), Metal Layer: 1
+	West:
+		NULL
+Nodes on Metal Layer 2
+Node Coordinate: (1, 1), Metal Layer: 2
+Adjacent Nodes:
+	Above:
+		NULL
+	Below:
+		Node Coordinate: (1, 1), Metal Layer: 1
+	North:
+		NULL
+	East:
+		Node Coordinate: (2, 1), Metal Layer: 2
+	South:
+		NULL
+	West:
+		NULL
+Node Coordinate: (1, 2), Metal Layer: 2
+Adjacent Nodes:
+	Above:
+		NULL
+	Below:
+		Node Coordinate: (1, 2), Metal Layer: 1
+	North:
+		NULL
+	East:
+		Node Coordinate: (2, 2), Metal Layer: 2
+	South:
+		NULL
+	West:
+		NULL
+Node Coordinate: (1, 3), Metal Layer: 2
+Adjacent Nodes:
+	Above:
+		NULL
+	Below:
+		Node Coordinate: (1, 3), Metal Layer: 1
+	North:
+		NULL
+	East:
+		Node Coordinate: (2, 3), Metal Layer: 2
+	South:
+		NULL
+	West:
+		NULL
+Node Coordinate: (2, 1), Metal Layer: 2
+Adjacent Nodes:
+	Above:
+		NULL
+	Below:
+		Node Coordinate: (2, 1), Metal Layer: 1
+	North:
+		NULL
+	East:
+		Node Coordinate: (3, 1), Metal Layer: 2
+	South:
+		NULL
+	West:
+		Node Coordinate: (1, 1), Metal Layer: 2
+Node Coordinate: (2, 2), Metal Layer: 2
+Adjacent Nodes:
+	Above:
+		NULL
+	Below:
+		Node Coordinate: (2, 2), Metal Layer: 1
+	North:
+		NULL
+	East:
+		Node Coordinate: (3, 2), Metal Layer: 2
+	South:
+		NULL
+	West:
+		Node Coordinate: (1, 2), Metal Layer: 2
+Node Coordinate: (2, 3), Metal Layer: 2
+Adjacent Nodes:
+	Above:
+		NULL
+	Below:
+		Node Coordinate: (2, 3), Metal Layer: 1
+	North:
+		NULL
+	East:
+		Node Coordinate: (3, 3), Metal Layer: 2
+	South:
+		NULL
+	West:
+		Node Coordinate: (1, 3), Metal Layer: 2
+Node Coordinate: (3, 1), Metal Layer: 2
+Adjacent Nodes:
+	Above:
+		NULL
+	Below:
+		Node Coordinate: (3, 1), Metal Layer: 1
+	North:
+		NULL
+	East:
+		NULL
+	South:
+		NULL
+	West:
+		Node Coordinate: (2, 1), Metal Layer: 2
+Node Coordinate: (3, 2), Metal Layer: 2
+Adjacent Nodes:
+	Above:
+		NULL
+	Below:
+		Node Coordinate: (3, 2), Metal Layer: 1
+	North:
+		NULL
+	East:
+		NULL
+	South:
+		NULL
+	West:
+		Node Coordinate: (2, 2), Metal Layer: 2
+Node Coordinate: (3, 3), Metal Layer: 2
+Adjacent Nodes:
+	Above:
+		NULL
+	Below:
+		Node Coordinate: (3, 3), Metal Layer: 1
+	North:
+		NULL
+	East:
+		NULL
+	South:
+		NULL
+	West:
+		Node Coordinate: (2, 3), Metal Layer: 2
