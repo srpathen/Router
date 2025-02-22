@@ -1,254 +1,79 @@
-Nodes Nodes on Metal Layer 1
-Node Coordinate: (1, 1), Metal Layer: 1
-Adjacent Nodes:
-	Above:
-		Node Coordinate: (1, 1), Metal Layer: 2
-	Below:
-		NULL
-	North:
-		Node Coordinate: (1, 2), Metal Layer: 1
-	East:
-		NULL
-	South:
-		NULL
-	West:
-		NULL
-Node Coordinate: (1, 2), Metal Layer: 1
-Adjacent Nodes:
-	Above:
-		Node Coordinate: (1, 2), Metal Layer: 2
-	Below:
-		NULL
-	North:
-		Node Coordinate: (1, 3), Metal Layer: 1
-	East:
-		NULL
-	South:
-		Node Coordinate: (1, 1), Metal Layer: 1
-	West:
-		NULL
-Node Coordinate: (1, 3), Metal Layer: 1
-Adjacent Nodes:
-	Above:
-		Node Coordinate: (1, 3), Metal Layer: 2
-	Below:
-		NULL
-	North:
-		NULL
-	East:
-		NULL
-	South:
-		Node Coordinate: (1, 2), Metal Layer: 1
-	West:
-		NULL
-Node Coordinate: (2, 1), Metal Layer: 1
-Adjacent Nodes:
-	Above:
-		Node Coordinate: (2, 1), Metal Layer: 2
-	Below:
-		NULL
-	North:
-		Node Coordinate: (2, 2), Metal Layer: 1
-	East:
-		NULL
-	South:
-		NULL
-	West:
-		NULL
-Node Coordinate: (2, 2), Metal Layer: 1
-Adjacent Nodes:
-	Above:
-		Node Coordinate: (2, 2), Metal Layer: 2
-	Below:
-		NULL
-	North:
-		Node Coordinate: (2, 3), Metal Layer: 1
-	East:
-		NULL
-	South:
-		Node Coordinate: (2, 1), Metal Layer: 1
-	West:
-		NULL
-Node Coordinate: (2, 3), Metal Layer: 1
-Adjacent Nodes:
-	Above:
-		Node Coordinate: (2, 3), Metal Layer: 2
-	Below:
-		NULL
-	North:
-		NULL
-	East:
-		NULL
-	South:
-		Node Coordinate: (2, 2), Metal Layer: 1
-	West:
-		NULL
-Node Coordinate: (3, 1), Metal Layer: 1
-Adjacent Nodes:
-	Above:
-		Node Coordinate: (3, 1), Metal Layer: 2
-	Below:
-		NULL
-	North:
-		Node Coordinate: (3, 2), Metal Layer: 1
-	East:
-		NULL
-	South:
-		NULL
-	West:
-		NULL
-Node Coordinate: (3, 2), Metal Layer: 1
-Adjacent Nodes:
-	Above:
-		Node Coordinate: (3, 2), Metal Layer: 2
-	Below:
-		NULL
-	North:
-		Node Coordinate: (3, 3), Metal Layer: 1
-	East:
-		NULL
-	South:
-		Node Coordinate: (3, 1), Metal Layer: 1
-	West:
-		NULL
-Node Coordinate: (3, 3), Metal Layer: 1
-Adjacent Nodes:
-	Above:
-		Node Coordinate: (3, 3), Metal Layer: 2
-	Below:
-		NULL
-	North:
-		NULL
-	East:
-		NULL
-	South:
-		Node Coordinate: (3, 2), Metal Layer: 1
-	West:
-		NULL
-Nodes on Metal Layer 2
-Node Coordinate: (1, 1), Metal Layer: 2
-Adjacent Nodes:
-	Above:
-		NULL
-	Below:
-		Node Coordinate: (1, 1), Metal Layer: 1
-	North:
-		NULL
-	East:
-		Node Coordinate: (2, 1), Metal Layer: 2
-	South:
-		NULL
-	West:
-		NULL
-Node Coordinate: (1, 2), Metal Layer: 2
-Adjacent Nodes:
-	Above:
-		NULL
-	Below:
-		Node Coordinate: (1, 2), Metal Layer: 1
-	North:
-		NULL
-	East:
-		Node Coordinate: (2, 2), Metal Layer: 2
-	South:
-		NULL
-	West:
-		NULL
-Node Coordinate: (1, 3), Metal Layer: 2
-Adjacent Nodes:
-	Above:
-		NULL
-	Below:
-		Node Coordinate: (1, 3), Metal Layer: 1
-	North:
-		NULL
-	East:
-		Node Coordinate: (2, 3), Metal Layer: 2
-	South:
-		NULL
-	West:
-		NULL
-Node Coordinate: (2, 1), Metal Layer: 2
-Adjacent Nodes:
-	Above:
-		NULL
-	Below:
-		Node Coordinate: (2, 1), Metal Layer: 1
-	North:
-		NULL
-	East:
-		Node Coordinate: (3, 1), Metal Layer: 2
-	South:
-		NULL
-	West:
-		Node Coordinate: (1, 1), Metal Layer: 2
-Node Coordinate: (2, 2), Metal Layer: 2
-Adjacent Nodes:
-	Above:
-		NULL
-	Below:
-		Node Coordinate: (2, 2), Metal Layer: 1
-	North:
-		NULL
-	East:
-		Node Coordinate: (3, 2), Metal Layer: 2
-	South:
-		NULL
-	West:
-		Node Coordinate: (1, 2), Metal Layer: 2
-Node Coordinate: (2, 3), Metal Layer: 2
-Adjacent Nodes:
-	Above:
-		NULL
-	Below:
-		Node Coordinate: (2, 3), Metal Layer: 1
-	North:
-		NULL
-	East:
-		Node Coordinate: (3, 3), Metal Layer: 2
-	South:
-		NULL
-	West:
-		Node Coordinate: (1, 3), Metal Layer: 2
-Node Coordinate: (3, 1), Metal Layer: 2
-Adjacent Nodes:
-	Above:
-		NULL
-	Below:
-		Node Coordinate: (3, 1), Metal Layer: 1
-	North:
-		NULL
-	East:
-		NULL
-	South:
-		NULL
-	West:
-		Node Coordinate: (2, 1), Metal Layer: 2
-Node Coordinate: (3, 2), Metal Layer: 2
-Adjacent Nodes:
-	Above:
-		NULL
-	Below:
-		Node Coordinate: (3, 2), Metal Layer: 1
-	North:
-		NULL
-	East:
-		NULL
-	South:
-		NULL
-	West:
-		Node Coordinate: (2, 2), Metal Layer: 2
-Node Coordinate: (3, 3), Metal Layer: 2
-Adjacent Nodes:
-	Above:
-		NULL
-	Below:
-		Node Coordinate: (3, 3), Metal Layer: 1
-	North:
-		NULL
-	East:
-		NULL
-	South:
-		NULL
-	West:
-		Node Coordinate: (2, 3), Metal Layer: 2
+metinfo 1 VERTICAL 1 6 2 5 1
+node (2,2,1) (2,2,2) NULL (2,10,1) NULL NULL NULL
+node (2,10,1) (2,10,2) NULL (2,18,1) NULL (2,2,1) NULL
+node (2,18,1) (2,18,2) NULL (2,26,1) NULL (2,10,1) NULL
+node (2,26,1) (2,26,2) NULL (2,34,1) NULL (2,18,1) NULL
+node (2,34,1) (2,34,2) NULL NULL NULL (2,26,1) NULL
+node (10,2,1) (10,2,2) NULL (10,10,1) NULL NULL NULL
+node (10,10,1) (10,10,2) NULL (10,18,1) NULL (10,2,1) NULL
+node (10,18,1) (10,18,2) NULL (10,26,1) NULL (10,10,1) NULL
+node (10,26,1) (10,26,2) NULL (10,34,1) NULL (10,18,1) NULL
+node (10,34,1) (10,34,2) NULL NULL NULL (10,26,1) NULL
+node (18,2,1) (18,2,2) NULL (18,10,1) NULL NULL NULL
+node (18,10,1) (18,10,2) NULL (18,18,1) NULL (18,2,1) NULL
+node (18,18,1) (18,18,2) NULL (18,26,1) NULL (18,10,1) NULL
+node (18,26,1) (18,26,2) NULL (18,34,1) NULL (18,18,1) NULL
+node (18,34,1) (18,34,2) NULL NULL NULL (18,26,1) NULL
+node (26,2,1) (26,2,2) NULL (26,10,1) NULL NULL NULL
+node (26,10,1) (26,10,2) NULL (26,18,1) NULL (26,2,1) NULL
+node (26,18,1) (26,18,2) NULL (26,26,1) NULL (26,10,1) NULL
+node (26,26,1) (26,26,2) NULL (26,34,1) NULL (26,18,1) NULL
+node (26,34,1) (26,34,2) NULL NULL NULL (26,26,1) NULL
+node (34,2,1) (34,2,2) NULL (34,10,1) NULL NULL NULL
+node (34,10,1) (34,10,2) NULL (34,18,1) NULL (34,2,1) NULL
+node (34,18,1) (34,18,2) NULL (34,26,1) NULL (34,10,1) NULL
+node (34,26,1) (34,26,2) NULL (34,34,1) NULL (34,18,1) NULL
+node (34,34,1) (34,34,2) NULL NULL NULL (34,26,1) NULL
+metinfo 2 HORIZONTAL 1 6 2 5 1
+node (2,2,2) (2,2,3) (2,2,1) NULL (10,2,2) NULL NULL
+node (2,10,2) (2,10,3) (2,10,1) NULL (10,10,2) NULL NULL
+node (2,18,2) (2,18,3) (2,18,1) NULL (10,18,2) NULL NULL
+node (2,26,2) (2,26,3) (2,26,1) NULL (10,26,2) NULL NULL
+node (2,34,2) (2,34,3) (2,34,1) NULL (10,34,2) NULL NULL
+node (10,2,2) (10,2,3) (10,2,1) NULL (18,2,2) NULL (2,2,2)
+node (10,10,2) (10,10,3) (10,10,1) NULL (18,10,2) NULL (2,10,2)
+node (10,18,2) (10,18,3) (10,18,1) NULL (18,18,2) NULL (2,18,2)
+node (10,26,2) (10,26,3) (10,26,1) NULL (18,26,2) NULL (2,26,2)
+node (10,34,2) (10,34,3) (10,34,1) NULL (18,34,2) NULL (2,34,2)
+node (18,2,2) (18,2,3) (18,2,1) NULL (26,2,2) NULL (10,2,2)
+node (18,10,2) (18,10,3) (18,10,1) NULL (26,10,2) NULL (10,10,2)
+node (18,18,2) (18,18,3) (18,18,1) NULL (26,18,2) NULL (10,18,2)
+node (18,26,2) (18,26,3) (18,26,1) NULL (26,26,2) NULL (10,26,2)
+node (18,34,2) (18,34,3) (18,34,1) NULL (26,34,2) NULL (10,34,2)
+node (26,2,2) (26,2,3) (26,2,1) NULL (34,2,2) NULL (18,2,2)
+node (26,10,2) (26,10,3) (26,10,1) NULL (34,10,2) NULL (18,10,2)
+node (26,18,2) (26,18,3) (26,18,1) NULL (34,18,2) NULL (18,18,2)
+node (26,26,2) (26,26,3) (26,26,1) NULL (34,26,2) NULL (18,26,2)
+node (26,34,2) (26,34,3) (26,34,1) NULL (34,34,2) NULL (18,34,2)
+node (34,2,2) (34,2,3) (34,2,1) NULL NULL NULL (26,2,2)
+node (34,10,2) (34,10,3) (34,10,1) NULL NULL NULL (26,10,2)
+node (34,18,2) (34,18,3) (34,18,1) NULL NULL NULL (26,18,2)
+node (34,26,2) (34,26,3) (34,26,1) NULL NULL NULL (26,26,2)
+node (34,34,2) (34,34,3) (34,34,1) NULL NULL NULL (26,34,2)
+metinfo 3 VERTICAL 1 6 2 5 1
+node (2,2,3) NULL (2,2,2) (2,10,3) NULL NULL NULL
+node (2,10,3) NULL (2,10,2) (2,18,3) NULL (2,2,3) NULL
+node (2,18,3) NULL (2,18,2) (2,26,3) NULL (2,10,3) NULL
+node (2,26,3) NULL (2,26,2) (2,34,3) NULL (2,18,3) NULL
+node (2,34,3) NULL (2,34,2) NULL NULL (2,26,3) NULL
+node (10,2,3) NULL (10,2,2) (10,10,3) NULL NULL NULL
+node (10,10,3) NULL (10,10,2) (10,18,3) NULL (10,2,3) NULL
+node (10,18,3) NULL (10,18,2) (10,26,3) NULL (10,10,3) NULL
+node (10,26,3) NULL (10,26,2) (10,34,3) NULL (10,18,3) NULL
+node (10,34,3) NULL (10,34,2) NULL NULL (10,26,3) NULL
+node (18,2,3) NULL (18,2,2) (18,10,3) NULL NULL NULL
+node (18,10,3) NULL (18,10,2) (18,18,3) NULL (18,2,3) NULL
+node (18,18,3) NULL (18,18,2) (18,26,3) NULL (18,10,3) NULL
+node (18,26,3) NULL (18,26,2) (18,34,3) NULL (18,18,3) NULL
+node (18,34,3) NULL (18,34,2) NULL NULL (18,26,3) NULL
+node (26,2,3) NULL (26,2,2) (26,10,3) NULL NULL NULL
+node (26,10,3) NULL (26,10,2) (26,18,3) NULL (26,2,3) NULL
+node (26,18,3) NULL (26,18,2) (26,26,3) NULL (26,10,3) NULL
+node (26,26,3) NULL (26,26,2) (26,34,3) NULL (26,18,3) NULL
+node (26,34,3) NULL (26,34,2) NULL NULL (26,26,3) NULL
+node (34,2,3) NULL (34,2,2) (34,10,3) NULL NULL NULL
+node (34,10,3) NULL (34,10,2) (34,18,3) NULL (34,2,3) NULL
+node (34,18,3) NULL (34,18,2) (34,26,3) NULL (34,10,3) NULL
+node (34,26,3) NULL (34,26,2) (34,34,3) NULL (34,18,3) NULL
+node (34,34,3) NULL (34,34,2) NULL NULL (34,26,3) NULL
+obstruction (4,4) 10 1 1
